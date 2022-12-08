@@ -5,7 +5,7 @@
 #    pip-compile requirements.txt
 #
 astroid==2.3.3            # via -r requirements.txt, pylint
-certifi==2019.11.28       # via -r requirements.txt, requests
+certifi==2022.12.7       # via -r requirements.txt, requests
 chardet==3.0.4            # via -r requirements.txt, requests
 colorama==0.4.3           # via -r requirements.txt, pylint
 django==3.1.13             # via -r requirements.txt
